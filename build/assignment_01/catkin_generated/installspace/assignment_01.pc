@@ -1,0 +1,8 @@
+prefix=/home/mkv/AUE893_mvallur/install
+
+Name: assignment_01
+Description: Description of assignment_01
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mkv/AUE893_mvallur/install/lib 
+Requires: 
